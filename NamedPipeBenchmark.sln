@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NamedPipeBenchmark", "NamedPipeBenchmark\NamedPipeBenchmark.vcxproj", "{F2FFACC3-FF96-4F21-93D9-15C96AEB831D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NamedPipeSlave", "NamedPipeSlave\NamedPipeSlave.vcxproj", "{6C8308F3-8847-4D68-A514-53F118468FC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2FFACC3-FF96-4F21-93D9-15C96AEB831D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F2FFACC3-FF96-4F21-93D9-15C96AEB831D}.Debug|Win32.Build.0 = Debug|Win32
+		{F2FFACC3-FF96-4F21-93D9-15C96AEB831D}.Release|Win32.ActiveCfg = Release|Win32
+		{F2FFACC3-FF96-4F21-93D9-15C96AEB831D}.Release|Win32.Build.0 = Release|Win32
+		{6C8308F3-8847-4D68-A514-53F118468FC7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6C8308F3-8847-4D68-A514-53F118468FC7}.Debug|Win32.Build.0 = Debug|Win32
+		{6C8308F3-8847-4D68-A514-53F118468FC7}.Release|Win32.ActiveCfg = Release|Win32
+		{6C8308F3-8847-4D68-A514-53F118468FC7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

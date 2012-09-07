@@ -1,0 +1,8 @@
+Debug
+*.obj
+*.exe
+ipch
+*.sdf
+*.suo
+*.user
+*.opensdf
